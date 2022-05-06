@@ -1,0 +1,39 @@
+body {
+  background-color:cornsilk;
+}
+
+#title {
+  font-size: 360%;
+}
+
+#tribute-info {
+  background-color: bisque;
+}
+
+#heading {
+  background-color: antiquewhite;
+}
+
+.center {
+  text-align: center;
+  margin: auto;
+  padding: auto;
+}
+
+#image {
+  display: block;
+  max-width: 80%;
+  height: auto;
+}
+
+.andada-font {
+  font-family: 'Andada Pro', serif;
+}
+
+.padding {
+  padding: 10px 180px 25px 180px;
+}
+
+#list {
+  text-align: justify;
+}
